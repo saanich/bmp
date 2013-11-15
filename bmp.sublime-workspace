@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"div",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/BMPtheme/aboutus.php",
+			"settings":
+			{
+				"buffer_size": 939,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 364.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/work/bmp/wp-content/themes/index.php",
+		"/C/work/bmp/sftp-config.json",
+		"/C/work/bmp/config.rb",
+		"/C/Users/friesenj/Desktop/index.php",
+		"/C/Users/friesenj/Desktop/form.html",
+		"/C/Users/friesenj/Desktop/form2.html",
+		"/C/Users/friesenj/Desktop/text.htm",
+		"/C/work/saanich/htdocs/archive2001/index.html",
+		"/C/work/saanich/htdocs/archive2001/ibox.js",
+		"/C/Users/friesenj/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/work/saanich/htdocs/navigation/nav-parksrec.shtml",
+		"/C/work/saanich/htdocs/parkrec/parks/trees/private.html",
+		"/C/work/saanich/htdocs/parkrec/parks/trees/index.html",
+		"/C/Users/friesenj/Desktop/archive2001/index.html",
+		"/C/work/saanich/htdocs/archive2001/site/index.htm",
+		"/C/work/saanich/htdocs/sep/index.html",
+		"/G/USERS/FriesenJ/joyride/demo/demo.html",
+		"/C/Users/friesenj/Desktop/Flat-UI-master/template.html",
+		"/C/work/saanich/htdocs/living/about/news/2013/halloween.html",
+		"/D/htdocs/index.html",
+		"/C/Users/friesenj/Desktop/2007/index.html",
+		"/C/Users/friesenj/Desktop/Saanich Online/index.html",
+		"/C/work/saanich/htdocs/services/gis/index.html",
+		"/C/work/saanich/htdocs/ui/styles/responsive/screen.css",
+		"/C/work/saanich/htdocs/services/gis/details.html",
+		"/C/work/saanich/htdocs/navigation/nav-student.shtml",
+		"/C/work/saanich/sass/style.scss",
+		"/C/work/saanich/htdocs/images/1990-028-018.jpg",
+		"/C/work/saanich/htdocs/index.html",
+		"/C/Users/friesenj/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/friesenj/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/friesenj/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/friesenj/AppData/Roaming/Sublime Text 2/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/friesenj/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/work/saanich/htdocs/discover/artsheritagearc/saanicharchives/index.html",
+		"/C/work/saanich/htdocs/discover/artsheritagearc/index.html",
+		"/C/work/saanich/htdocs/navigation/nav-discover.shtml",
+		"/C/work/saanich/htdocs/discover/artsheritagearc/saanicharchives/welcome.html",
+		"/C/work/saanich/htdocs/discover/artsheritagearc/saanicharchives/saanichremembers.html",
+		"/C/work/saanich/config.rb",
+		"/C/work/saanich/htdocs/ui/scripts/lightbox/css/lightbox.css",
+		"/C/work/saanich/htdocs/ui/styles/responsive/contribute.css",
+		"/C/work/saanich/htdocs/services/safety/index.html",
+		"/C/work/saanich/sass/reset.scss",
+		"/C/work/saanich/sftp-configure.json",
+		"/C/work/saanich/sftp-config.json",
+		"/C/work/saanich/sass/reset.css",
+		"/C/Users/friesenj/Documents/living/community/index.html",
+		"/C/Users/friesenj/Desktop/thing.html",
+		"/C/Windows/System32/thing.html",
+		"/C/Users/friesenj/Desktop/testproject/testproject/sass/screen.scss",
+		"/C/Users/friesenj/Desktop/testproject/testproject/config.rb",
+		"/C/Users/friesenj/Desktop/testproject/testproject/stylesheets/screen.css",
+		"/C/Users/friesenj/Desktop/testproject/testproject/sass/ie.scss",
+		"/C/Users/friesenj/Desktop/testproject/testproject/sass/screen.css",
+		"/C/Users/friesenj/Desktop/testproject/stylesheets/screen.css",
+		"/C/Users/friesenj/Desktop/testproject/sass/screen.css",
+		"/C/Users/friesenj/Desktop/testproject/sass/screen.scss",
+		"/C/Users/friesenj/Desktop/testproject/config.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" style=\"width: 20%;",
+			"style=\"width: 20%;\"",
+			"height:",
+			"Bylaw.html",
+			"bylaw.html",
+			"boulevard.html",
+			"boulevard.html ",
+			"private.html",
+			"?",
+			"\"/",
+			"h2",
+			"Content",
+			"content",
+			"div",
+			"upload",
+			"ctrl+shift+alt+d",
+			"ctrl+shift+d",
+			"ctrl+d",
+			"saanich.ca/",
+			"1911",
+			"nav",
+			"\n        <li><a href=\"#\">item</a></li>\n        <li><a href=\"#\">item<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/BMPtheme/aboutus.php",
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								930,
+								930
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 454.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.sftp":
+	{
+		"height": 87.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"student",
+				"htdocs/navigation/nav-student.shtml"
+			],
+			[
+				"sty",
+				"sass/style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/work/wp-test/wordpress staging.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
