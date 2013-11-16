@@ -8,8 +8,8 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<title><?php wp_title(''); ?><?php if(wp_title(' ', false)) { echo ' - '; } ?><?php bloginfo('name'); ?></title>
-  <meta name="description" content="Recreational paintball, for beginners and experts - TNT Paintball. 250-658-1177 "/>
-	<meta name="author" content="Website designed by Joel Friesen - Joelf.com">
+  <meta name="description" content="Saanich Best Practicve Management documents"/>
+	<meta name="author" content="Designed by Saanich IT Department, Joel Friesen">
   <meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -79,12 +79,5 @@
         <nav class="menubar main-nav" id="main-nav">
           <?php wp_nav_menu(array('theme_location' => 'primary-menu'));?>
         </nav>
-        <div class="slogan">
-          <h2>1-250-658-1177</h2>
-          <ul class="nobullets">
-            <li class="facebook"><a href="//www.facebook.com/pages/TNT-Paintball/160099750692316"><span>Join us on Facebook</span></a></li>
-            <li class="news"><a href="<?php bloginfo('url'); ?>/news/"><span>News and events</span></a></li>
-          </ul>
-        </div>
       </div>
     </div>
